@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EBECE8;
+}
+
+#navbar {
+    width: 100%;
+    padding: 1% 7%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+#subtitles {
+    width: 100%;
+    padding: 1% 7%;
+    border-top: 1px solid #0d0d0d;
+    border-bottom: 1px solid #0d0d0d;
+}
